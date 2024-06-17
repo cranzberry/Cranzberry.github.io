@@ -26,7 +26,7 @@ urls:
 
 author_logo: profile.png
 author: Evan Crandall
-author_bio: Hi, my name is Evan Crandall. I built this site using devlopr-jekyll 
+author_bio: Hi, my name is Evan Crandall. I built this site using devlopr-jekyll. I am a student at Michigan State University, working to get a bachelors degree in physics.
 author_email: "Cranda95@msu.edu"
 author_location: Michigan, USA
 author_website_url: "https://github.com/cranzberry/cranzberry.github.io"
@@ -36,7 +36,7 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Experiences
 author_work_experiences:
             - company_name: Bayer
-              company_logo: bayer.png
+              company_logo: /assets/img/bayer.png
               company_url: https://www.bayer.com/en/
               designation: Research Assistant 
               description: Worked with data collection to assist field researchers 
