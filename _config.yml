@@ -36,7 +36,7 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Experiences
 author_work_experiences:
             - company_name: Bayer
-              company_logo: google.png
+              company_logo: bayer.png
               company_url: https://www.bayer.com/en/
               designation: Research Assistant 
               description: Worked with data collection to assist field researchers 
